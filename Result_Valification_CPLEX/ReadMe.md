@@ -46,5 +46,3 @@ Notes and assumptions
 - `Time(s)` in the report is taken from the input CSV (the solver's reported time), not the verification runtime.
 - If the input CSV does not include a `Seed` column the report will leave that field empty.
 - Reports are placed under `Results_Verified/` (created if missing).
-
-If you'd like, I can now run the verifier on the current `Final_Results` folder and produce the `Results_Verified` reports (this requires CPLEX and may take time).
