@@ -20,7 +20,7 @@ endif()
 # =============================================================
 
 
-set(CPLEX_ROOT_DIR "/usw/u/bbe0575/cplex") 
+set(CPLEX_ROOT_DIR "/cplex") 
 
 
 
